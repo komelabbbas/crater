@@ -16,3 +16,5 @@ Homestead.yaml
 .gitkeep
 /public/docs
 /.scribe
+temp_auto_push.bat
+temp_interactive_push.bat
